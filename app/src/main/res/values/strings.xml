@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RollaTestApp</string>
+    <string name="button">Button%d</string>
+    <string name="reset">Reset</string>
 </resources>
